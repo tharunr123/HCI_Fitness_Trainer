@@ -1,1 +1,1 @@
-# Personlaized Fitness Trainer
+# Personalized Fitness Trainer
