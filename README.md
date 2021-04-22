@@ -3,4 +3,8 @@ This repository contains the files and deliverables for the project of the cours
 Our team name is: HCI_0102_1580_1618_1629.
 
 
-
+# Team Members:
+1. R. Tharun Raj
+2. Vishruth P. Reddy
+3. Varun Kerenalli
+4. K. Sreesh Reddy
