@@ -10,7 +10,7 @@ To view our UI, click [Personalized Fitness Coach Website](https://hcifitnesstra
 <p>Exercise guides are present in online communities, however, one needs expertise and direction during the exact moments of their exercise as much cannot be done by just reading about the same online.</p>
 
 ## Problem Statement:
-Create a self-paced personalized experience guide.
+Create a self-paced personalized exercise guide.
 
 
 ## Deliverables:
