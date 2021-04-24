@@ -14,6 +14,7 @@ Create a self-paced personalized experience guide.
 
 
 ## Deliverables:
+```
 - Problem Statement
 - Need Finding
 - Concept Video
@@ -21,7 +22,7 @@ Create a self-paced personalized experience guide.
 - Low Fidelity/Storyboard
 - Heuristic Evaluation
 - High Fidelity Prototype (User Interface)
-
+```
 ## Team Members:
 1. R. Tharun Raj
 2. Vishruth P. Reddy
