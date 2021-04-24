@@ -3,7 +3,7 @@ This repository contains the files and deliverables for the project of the cours
 Our team name is: HCI_0102_1580_1618_1629.
 
 ## User Interface
-To view our UI, click [Personalized Fitness Coach Website] https://hcifitnesstrainer.github.io/
+To view our UI, click [Personalized Fitness Coach Website](https://hcifitnesstrainer.github.io/)
 
 ## Deliverables:
 - Problem Statement
