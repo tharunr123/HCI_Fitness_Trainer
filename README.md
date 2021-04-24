@@ -5,6 +5,9 @@ Our team name is: HCI_0102_1580_1618_1629.
 # User Interface
 To view our UI, click https://hcifitnesstrainer.github.io/
 
+# Deliverables:
+<ul>
+
 # Team Members:
 1. R. Tharun Raj
 2. Vishruth P. Reddy
