@@ -2,13 +2,19 @@
 This repository contains the files and deliverables for the project of the course: Human Computer Interaction (UE18CS348). The topic of our project is "Personalized Fitness Trainer".<br>
 Our team name is: HCI_0102_1580_1618_1629.
 
-# User Interface
-To view our UI, click https://hcifitnesstrainer.github.io/
+## User Interface
+To view our UI, click [Personalized Fitness Coach Website] https://hcifitnesstrainer.github.io/
 
-# Deliverables:
-<ul>
+## Deliverables:
+- Problem Statement
+- Need Finding
+- Concept Video
+- Empathy Map
+- Low Fidelity/Storyboard
+- Heuristic Evaluation
+- High Fidelity Prototype (User Interface)
 
-# Team Members:
+## Team Members:
 1. R. Tharun Raj
 2. Vishruth P. Reddy
 3. Varun Kerenalli
