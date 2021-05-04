@@ -23,6 +23,10 @@ Create a self-paced personalized exercise guide.
 - Heuristic Evaluation
 - High Fidelity Prototype (User Interface)
 ```
+
+Concept Video created using https://www.canva.com/<br>
+Storyboarding created using https://www.storyboardthat.com/
+
 ## Team Members:
 1. R. Tharun Raj
 2. Vishruth P. Reddy
