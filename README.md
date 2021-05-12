@@ -24,8 +24,8 @@ Create a self-paced personalized exercise guide.
 - High Fidelity Prototype (User Interface)
 ```
 
-Concept Video created using https://www.canva.com/<br>
-Storyboarding created using https://www.storyboardthat.com/
+<b>Concept Video</b> created using https://www.canva.com/.<br>
+<b>Storyboarding</b> created using https://www.storyboardthat.com/.
 
 ## Team Members:
 1. R. Tharun Raj
